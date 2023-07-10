@@ -1,0 +1,45 @@
+{
+	"id": "fe043221-f175-4638-bc5d-bd64d51864b3",
+	"name": "RestFul-Booking",
+	"values": [
+		{
+			"key": "",
+			"value": "",
+			"type": "default",
+			"enabled": false
+		},
+		{
+			"key": "url",
+			"value": "https://restful-booker.herokuapp.com",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "Content-Type\t",
+			"value": "application/json",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "Accept",
+			"value": "application/json",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "token",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "courseID",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		}
+	],
+	"_postman_variable_scope": "environment",
+	"_postman_exported_at": "2023-03-20T17:08:34.514Z",
+	"_postman_exported_using": "Postman/10.12.2"
+}
